@@ -1,0 +1,59 @@
+.card {
+    border: 2px solid black;
+    width: 40vw;
+    height: 30vw;
+    margin: 5rem;
+    padding: 2rem;
+    text-align: center;
+    direction: rtl;
+}
+
+.wedding {
+    background-image: url('./images//wedding.jpg');
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.birthday {
+    background-image: url('./images/birthday.jpg');
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.barMitzva {
+    background-image: url('./images/barMitzva.jpg');
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.shanaTova {
+    background-image: url('./images/shanaTova.jpg');
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.engagement {
+    background-image: url('./images/engagement.jpg');
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.addressed {
+    font-size: 2rem;
+}
+
+.mainText {
+    font-size: 2.5rem;
+}
+
+.semiText {
+    font-size: 1.3rem;
+}
+
+.addressee {
+    font-size: 1.8rem;
+}
