@@ -45,7 +45,8 @@ function App() {
     //         <li>
     //           <a href="https://vite.dev/" target="_blank">
     //             <img className="logo" src={viteLogo} alt="" />
-    //             Explore Vite
+    //             Explore 
+    // Vite
     //           </a>
     //         </li>
     //         <li>
@@ -84,9 +85,10 @@ function App() {
     //             >
     //               <use href="/icons.svg#discord-icon"></use>
     //             </svg>
-    //             Discord
+
     //           </a>
     //         </li>
+
     //         <li>
     //           <a href="https://x.com/vite_js" target="_blank">
     //             <svg
